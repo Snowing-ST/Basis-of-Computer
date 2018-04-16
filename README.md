@@ -12,12 +12,12 @@ numpy/pandas/matplotlib/seaborn的应用
 
 ## [database](https://github.com/Snowing-ST/computer-basics/tree/master/database)
 - [数据库期末个人分析报告.pdf](https://github.com/Snowing-ST/computer-basics/blob/master/database/%E6%95%B0%E6%8D%AE%E5%BA%93%E6%9C%9F%E6%9C%AB%E4%B8%AA%E4%BA%BA%E5%88%86%E6%9E%90%E6%8A%A5%E5%91%8A.pdf)
-
-一、选题依据	
-1.研究意义	
-2.研究的具体问题与研究方法	
-二、设计分析数据库	
-1.使用表格及依据	
+<br>
+一、选题依据<br>	
+1.研究意义<br>	
+2.研究的具体问题与研究方法<br>	
+二、设计分析数据库<br>	
+1.使用表格及依据<br>	
 2.表与表之前的关系	
 3.建表命令、约束条件命令	
 三、数据分析任务	
@@ -33,8 +33,8 @@ numpy/pandas/matplotlib/seaborn的应用
 
 
 - [SQL部分.sql](https://github.com/Snowing-ST/computer-basics/blob/master/database/SQL%E9%83%A8%E5%88%86.sql)
-    - 1. 提取论文所需数据
-    - 2. SQL的基础用法
+      - 1. 提取论文所需数据
+      - 2. SQL的基础用法
 - [期末个人数据分析.R](https://github.com/Snowing-ST/computer-basics/blob/master/database/%E6%9C%9F%E6%9C%AB%E4%B8%AA%E4%BA%BA%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90.R)
-    - 1. 使用RStudio连接SQL Server
-    - 2. kmeans聚类/纵向数据分析lme
+      - 1. 使用RStudio连接SQL Server
+      - 2. kmeans聚类/纵向数据分析lme
