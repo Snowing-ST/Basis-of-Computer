@@ -18,23 +18,24 @@ numpy/pandas/matplotlib/seaborn的应用
 2.研究的具体问题与研究方法<br>	
 二、设计分析数据库<br>	
 1.使用表格及依据<br>	
-2.表与表之前的关系	
-3.建表命令、约束条件命令	
-三、数据分析任务	
-1.SQL Server 初步统计	
-2. Analysis Service设计多维数据集	
-3.Excel 数据透视表展示分析结果	
-4.Power BI报表展示数据分析成果	
-5.Power Map展示客户地域特点	
-四、数据挖掘任务	
-1.R：聚类分析和纵向数据分析	
-2. Analysis Service：聚类分析	
-3.不同数据挖掘软件的比较
-
+2.表与表之前的关系<br>	
+3.建表命令、约束条件命令<br>	
+三、数据分析任务<br>	
+1.SQL Server 初步统计<br>	
+2. Analysis Service设计多维数据集<br>	
+3.Excel 数据透视表展示分析结果<br>	
+4.Power BI报表展示数据分析成果<br>	
+5.Power Map展示客户地域特点<br>	
+四、数据挖掘任务<br>	
+1.R：聚类分析和纵向数据分析<br>	
+2. Analysis Service：聚类分析<br>	
+3.不同数据挖掘软件的比较<br>
 
 - [SQL部分.sql](https://github.com/Snowing-ST/computer-basics/blob/master/database/SQL%E9%83%A8%E5%88%86.sql)
-      - 1. 提取论文所需数据
-      - 2. SQL的基础用法
+
+    - 1. 提取论文所需数据
+    - 2. SQL的基础用法
 - [期末个人数据分析.R](https://github.com/Snowing-ST/computer-basics/blob/master/database/%E6%9C%9F%E6%9C%AB%E4%B8%AA%E4%BA%BA%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90.R)
-      - 1. 使用RStudio连接SQL Server
-      - 2. kmeans聚类/纵向数据分析lme
+
+    - 1. 使用RStudio连接SQL Server
+    - 2. kmeans聚类/纵向数据分析lme
