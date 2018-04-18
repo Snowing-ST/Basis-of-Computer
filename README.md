@@ -34,10 +34,10 @@ numpy/pandas/matplotlib/seaborn的应用
 
 - [SQL部分.sql](https://github.com/Snowing-ST/computer-basics/blob/master/database/SQL%E9%83%A8%E5%88%86.sql)
 
-    - 1. 提取论文所需数据<br>
-    - 2. SQL的基础用法<br>
+  - 提取论文所需数据<br>
+  - SQL的基础用法<br>
 
 - [期末个人数据分析.R](https://github.com/Snowing-ST/computer-basics/blob/master/database/%E6%9C%9F%E6%9C%AB%E4%B8%AA%E4%BA%BA%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90.R)
 
-    - 1. 使用RStudio连接SQL Server<br>
-    - 2. kmeans聚类/纵向数据分析lme<br>
+  - 用RStudio连接SQL Server<br>
+  - kmeans聚类/纵向数据分析lme<br>
